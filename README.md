@@ -14,5 +14,5 @@ Implementamos nesta prova de conceito de Perguntas e Respostas o modelo BERT, ut
 
 O modelo (mrm8488/bert-base-portuguese-cased-finetuned-squad-v1-pt) disponibilizado pelo usuário Manuel Romero (mrm8488 do github) foi o que trouxe os melhores resultados.
 
-A Hugging Face é uma startup focada em NLP com uma grande comunidade de código aberto. Eles desenvolveram uma biblioteca (transformers) baseada em python que disponibiliza uma API para as principais arquiteturas conhecidas, como BERT, RoBERTa, GPT-2 ou DistilBERT, que estão sendo utilizadas, com resultados de última geração em uma variedade de tarefas de NLP como: classificação de texto, extração de informações, resposta a perguntas e geração de texto. Essas arquiteturas já possuem diversos corpus pré-treinados em diversas línguas.
+A Huggingface (🤗) é uma startup focada em NLP com uma grande comunidade de código aberto. Eles desenvolveram uma biblioteca (transformers) baseada em python que disponibiliza uma API para as principais arquiteturas conhecidas, como BERT, RoBERTa, GPT-2 ou DistilBERT, que estão sendo utilizadas, com resultados de última geração em uma variedade de tarefas de NLP como: classificação de texto, extração de informações, resposta a perguntas e geração de texto. Essas arquiteturas já possuem diversos corpus pré-treinados em diversas línguas.
 
