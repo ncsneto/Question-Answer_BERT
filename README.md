@@ -7,27 +7,28 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](https://github.com/ncsneto/Question-Answer_BERT). 
+- [Link para o código](https://github.com/ncsneto/Question-Answer_BERT/blob/main/Modelo_revisado_Portugues.ipynb). 
 
 - Trabalhos relacionados:
     - [Google Research Project](https://github.com/google-research/bert#pre-trained-models).
     - [Building a QA System with BERT on Wikipedia](https://qa.fastforwardlabs.com/pytorch/hugging%20face/wikipedia/bert/transformers/2020/05/19/Getting_Started_with_QA.html#QA-on-Wikipedia-pages).
-    - [Stanford Question Answering Dataset] (https://rajpurkar.github.io/SQuAD-explorer/)
-    - [PyTorch Question Answering] (https://github.com/kushalj001/pytorch-question-answering#pytorch-question-answering)
-    - [LSTM is dead. Long Live Transformers!] (https://www.youtube.com/watch?v=S27pHKBEp30)
-    - [Attention Is All You Need] (https://arxiv.org/abs/1706.03762) (https://www.youtube.com/watch?v=iDulhoQ2pro)
-    - [Transformer Neural Networks - EXPLAINED! (Attention is all you need)] (https://www.youtube.com/watch?v=TQQlZhbC5ps&t=13s)
-    - [pytorch-question-answering] (https://github.com/kushalj001/pytorch-question-answering/blob/master/1.%20DrQA.ipynb)
-    - [BERTimbau - Portuguese BERT] (https://github.com/neuralmind-ai/portuguese-bert)
-    - [Portuguese Named Entity Recognition using BERT-CRF] (https://github.com/neuralmind-ai/portuguese-bert)
-    - [NLP Tutorial: Creating Question Answering System using BERT + SQuAD on Colab TPU] (https://hackernoon.com/nlp-tutorial-creating-question-answering-system-using-bert-squad-on-colab-tpu-1utp3352)
-    - [Portuguese Word Embeddings] (http://www.davidsbatista.net/blog/2019/11/03/Portuguese-Embeddings/)
-    - [Pergunta e resposta de BERT] (https://www.tensorflow.org/lite/examples/bert_qa/overview)
-    - [Answering Questions With Transformers] (https://predictivehacks.com/answering-questions-with-transformers/)
-    - [RAPPORT: A Fact-Based Question Answering System for Portuguese] (https://estudogeral.uc.pt/handle/10316/41880)
-    - [Question Answering] (https://paperswithcode.com/task/question-answering)
-    - [Fine-tuning a model on a question-answering task] (https://github.com/huggingface/notebooks/blob/master/examples/question_answering.ipynb)
-    - [Datasets em Português] (https://forum.ailab.unb.br/t/datasets-em-portugues/251)
+    - [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+    - [PyTorch Question Answering](https://github.com/kushalj001/pytorch-question-answering#pytorch-question-answering)
+    - [LSTM is dead. Long Live Transformers!](https://www.youtube.com/watch?v=S27pHKBEp30)
+    - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+    - [Attention Is All You Need - Youtube](https://www.youtube.com/watch?v=iDulhoQ2pro)
+    - [Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps&t=13s)
+    - [pytorch-question-answering](https://github.com/kushalj001/pytorch-question-answering/blob/master/1.%20DrQA.ipynb)
+    - [BERTimbau - Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
+    - [Portuguese Named Entity Recognition using BERT-CRF](https://github.com/neuralmind-ai/portuguese-bert)
+    - [NLP Tutorial: Creating Question Answering System using BERT + SQuAD on Colab TPU](https://hackernoon.com/nlp-tutorial-creating-question-answering-system-using-bert-squad-on-colab-tpu-1utp3352)
+    - [Portuguese Word Embeddings](http://www.davidsbatista.net/blog/2019/11/03/Portuguese-Embeddings/)
+    - [Pergunta e resposta de BERT](https://www.tensorflow.org/lite/examples/bert_qa/overview)
+    - [Answering Questions With Transformers](https://predictivehacks.com/answering-questions-with-transformers/)
+    - [RAPPORT: A Fact-Based Question Answering System for Portuguese](https://estudogeral.uc.pt/handle/10316/41880)
+    - [Question Answering](https://paperswithcode.com/task/question-answering)
+    - [Fine-tuning a model on a question-answering task](https://github.com/huggingface/notebooks/blob/master/examples/question_answering.ipynb)
+    - [Datasets em Português](https://forum.ailab.unb.br/t/datasets-em-portugues/251)
     - [Building a QA System with BERT on Wikipedia](https://qa.fastforwardlabs.com/pytorch/hugging%20face/wikipedia/bert/transformers/2020/05/19/Getting_Started_with_QA.html#QA-on-Wikipedia-pages).
 
 ---
