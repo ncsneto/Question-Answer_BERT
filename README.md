@@ -1,7 +1,7 @@
 # Modelo Bert de Perguntas e Respostas
 
 #### Aluno: Nelson Custódio da Silveira Neto (https://github.com/ncsneto)
-#### Orientador(/a/es/as): PhD Leonardo Alfredo Forero Mendoza (prof.leonardo@ica.ele.puc-rio.br) e Cristian Munoz (prof.cristian@ica.ele.puc-rio.br).
+#### Orientadores: PhD Leonardo Alfredo Forero Mendoza (prof.leonardo@ica.ele.puc-rio.br) e Cristian Munoz (prof.cristian@ica.ele.puc-rio.br).
 
 ---
 
